@@ -1,0 +1,70 @@
+Sent:  23565
+Received:  23565
+First data packet received:  10.257229203
+Last data packet received:  150.008620603
+Bandwidth:  1375.95 kbps
+Average latency:  0.00440819  seconds
+Channel Utilization: 68.7973 %
+Sent:  23950
+Received:  23950
+First data packet received:  10.131477654
+Last data packet received:  150.009367280
+Bandwidth:  1397.19 kbps
+Average latency:  0.00440826  seconds
+Channel Utilization: 69.8595 %
+Sent:  23770
+Received:  23769
+First data packet received:  10.147326010
+Last data packet received:  150.004301154
+Bandwidth:  1386.81 kbps
+Average latency:  0.00440818  seconds
+Channel Utilization: 69.3405 %
+Sent:  23420
+Received:  23420
+First data packet received:  10.836757213
+Last data packet received:  150.009774987
+Bandwidth:  1373.16 kbps
+Average latency:  0.00440818  seconds
+Channel Utilization: 68.6581 %
+Sent:  23636
+Received:  23636
+First data packet received:  10.341470857
+Last data packet received:  150.009174640
+Bandwidth:  1380.92 kbps
+Average latency:  0.00440818  seconds
+Channel Utilization: 69.0459 %
+Sent:  23332
+Received:  23331
+First data packet received:  10.034370399
+Last data packet received:  150.006987488
+Bandwidth:  1360.14 kbps
+Average latency:  0.00440821  seconds
+Channel Utilization: 68.0071 %
+Sent:  24000
+Received:  24000
+First data packet received:  10.030893067
+Last data packet received:  150.009670770
+Bandwidth:  1399.07 kbps
+Average latency:  0.00440818  seconds
+Channel Utilization: 69.9535 %
+Sent:  23362
+Received:  23362
+First data packet received:  10.161969332
+Last data packet received:  150.008998080
+Bandwidth:  1363.16 kbps
+Average latency:  0.00440819  seconds
+Channel Utilization: 68.158 %
+Sent:  23606
+Received:  23605
+First data packet received:  10.032946915
+Last data packet received:  150.006725606
+Bandwidth:  1376.09 kbps
+Average latency:  0.00440818  seconds
+Channel Utilization: 68.8046 %
+Sent:  23855
+Received:  23854
+First data packet received:  10.030878108
+Last data packet received:  150.008874126
+Bandwidth:  1390.57 kbps
+Average latency:  0.00440818  seconds
+Channel Utilization: 69.5283 %

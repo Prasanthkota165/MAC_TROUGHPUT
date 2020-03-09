@@ -1,0 +1,70 @@
+Sent:  52897
+Received:  52896
+First data packet received:  10.007318397
+Last data packet received:  150.007117112
+Bandwidth:  834.247 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.7123 %
+Sent:  52821
+Received:  52820
+First data packet received:  10.009857812
+Last data packet received:  150.008639659
+Bandwidth:  833.054 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.6527 %
+Sent:  52871
+Received:  52870
+First data packet received:  10.012077731
+Last data packet received:  150.008668182
+Bandwidth:  833.856 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.6928 %
+Sent:  52906
+Received:  52905
+First data packet received:  10.009757202
+Last data packet received:  150.008730688
+Bandwidth:  834.394 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.7197 %
+Sent:  52845
+Received:  52844
+First data packet received:  10.005526317
+Last data packet received:  150.007559919
+Bandwidth:  833.413 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.6707 %
+Sent:  52876
+Received:  52875
+First data packet received:  10.006903455
+Last data packet received:  150.008555869
+Bandwidth:  833.904 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.6952 %
+Sent:  52919
+Received:  52919
+First data packet received:  10.013681697
+Last data packet received:  150.008677040
+Bandwidth:  834.638 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.7319 %
+Sent:  52897
+Received:  52897
+First data packet received:  10.007896317
+Last data packet received:  150.009686383
+Bandwidth:  834.251 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.7125 %
+Sent:  52840
+Received:  52840
+First data packet received:  10.007582397
+Last data packet received:  150.009115807
+Bandwidth:  833.353 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.6677 %
+Sent:  52808
+Received:  52808
+First data packet received:  10.006963455
+Last data packet received:  150.009274389
+Bandwidth:  832.844 kbps
+Average latency:  0.00143224  seconds
+Channel Utilization:  41.6422 %
